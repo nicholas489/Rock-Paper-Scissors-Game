@@ -1,6 +1,6 @@
 # Project Rock, Paper Scissors by Nicholas Caro
 # Start Date: October, 2nd 2022
-# Finish Date: T
+# Finish Date: October, 2nd 2022
 
 from random import randint
 from time import sleep
